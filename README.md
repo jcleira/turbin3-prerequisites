@@ -18,7 +18,7 @@ It's pretty clear that the guide is a touch down as the key creation is mostly d
 There are some typos in the steps to create the keypair, I think they are done in purpose to test debugging skills.
 
 I'm publishing the generated publickey here, but I did a basic protection for the private key using `gitignore` (not super secure I know, but enought for this test).
-```json
+```
 9E7nfbmqoS6nk8kqjhBZLpeA6yytSeYySboQZo2kSsrA
 ```
 
@@ -66,9 +66,8 @@ I'm not quite sure I would have suceeded today without the existing knowledge I 
 
 ## Extras
 There are a few more things I could have done to improve the project, but I think I will leave them for another time, I'm happy with the result.
- 
+
 Those things are:
 - Add a better TS definitions, and make it more composable.
 - Add a better logging system, I'm just using `console.log`.
 - There are many other production code things that are not applicable here, but I could have add linting, testing, CI, etc.
-
