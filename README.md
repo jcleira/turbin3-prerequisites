@@ -18,7 +18,7 @@ It's pretty clear that the guide is a touch down as the key creation is mostly d
 There are some typos in the steps to create the keypair, I think they are done in purpose to test debugging skills.
 
 I'm publishing the generated publickey here, but I did a basic protection for the private key using `gitignore` (not super secure I know, but enought for this test).
-```json
+```
 9E7nfbmqoS6nk8kqjhBZLpeA6yytSeYySboQZo2kSsrA
 ```
 
