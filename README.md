@@ -63,3 +63,11 @@ https://explorer.solana.com/tx/4imxPKXzvZqFgRibpELhLjVFLVugukFY94E1DNYMLZKhVztWz
 ```
 
 I'm not quite sure I would have suceeded today without the existing knowledge I had about PDAs and IDLs, but I'm glad I did!.
+
+## Extras
+There are a few more things I could have done to improve the project, but I think I will leave them for another time, I'm happy with the result.
+
+Those things are:
+- Add a better TS definitions, and make it more composable.
+- Add a better logging system, I'm just using `console.log`.
+- There are many other production code things that are not applicable here, but I could have add linting, testing, CI, etc.
